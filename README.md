@@ -32,13 +32,13 @@
   <!-- Spring Icon -->
   <img height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg?raw=true">&nbsp;
   <!-- HTML Icon -->
-  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/master/img/html.png?raw=true">&nbsp;
+  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/main/img/html.png?raw=true">&nbsp;
   <!-- CSS Icon -->
-  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/master/img/css.png?raw=true">&nbsp;
+  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/main/img/css.png?raw=true">&nbsp;
   <!-- JS Icon -->
-  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/master/img/js.png?raw=true">&nbsp;
+  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/main/img/js.png?raw=true">&nbsp;
   <!-- Git Icon -->
-  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/main/img/git.png">&nbsp;
+  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/main/img/git.png?raw=true">&nbsp;
   
 </p>
 
