@@ -38,7 +38,7 @@
   <!-- JS Icon -->
   <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/master/img/js.png?raw=true">&nbsp;
   <!-- Git Icon -->
-  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/master/img/git.png?raw=true">&nbsp;
+  <img src="https://github.com/DeivisonMaster/DeivisonMaster/blob/main/img/git.png">&nbsp;
   
 </p>
 
