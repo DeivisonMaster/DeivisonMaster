@@ -15,7 +15,7 @@
 </div>
 
 <h4> 
-	🚧 I study programming since I was 21 years old, 🚀 In 2013 I started university, I stopped and went back a few times until I found that this was what I really wanted to do for the rest of my life.❤️ I started on the front-end, migrated to the back-end and today I am looking to have the necessary knowledge to be a fullstack developer. 😃
+	🚧 I've been studying programming since I was 21, 🚀 In 2013 I entered college. I started at the front-end, migrated to the back-end and today I work as a fullstack developer. 😃
 </h4>
 
 ### :mortar_board: Academic education
